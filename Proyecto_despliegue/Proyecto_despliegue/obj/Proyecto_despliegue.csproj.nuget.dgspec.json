@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prueba\\Proyecto_despliegue\\Proyecto_despliegue\\Proyecto_despliegue.csproj": {}
+    "D:\\Prueba\\Proyecto_de_Despliegue\\Despliegue_en_Csharp\\Proyecto_despliegue\\Proyecto_despliegue\\Proyecto_despliegue.csproj": {}
   },
   "projects": {
-    "D:\\Prueba\\Proyecto_despliegue\\Proyecto_despliegue\\Proyecto_despliegue.csproj": {
+    "D:\\Prueba\\Proyecto_de_Despliegue\\Despliegue_en_Csharp\\Proyecto_despliegue\\Proyecto_despliegue\\Proyecto_despliegue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prueba\\Proyecto_despliegue\\Proyecto_despliegue\\Proyecto_despliegue.csproj",
+        "projectUniqueName": "D:\\Prueba\\Proyecto_de_Despliegue\\Despliegue_en_Csharp\\Proyecto_despliegue\\Proyecto_despliegue\\Proyecto_despliegue.csproj",
         "projectName": "Proyecto_despliegue",
-        "projectPath": "D:\\Prueba\\Proyecto_despliegue\\Proyecto_despliegue\\Proyecto_despliegue.csproj",
+        "projectPath": "D:\\Prueba\\Proyecto_de_Despliegue\\Despliegue_en_Csharp\\Proyecto_despliegue\\Proyecto_despliegue\\Proyecto_despliegue.csproj",
         "packagesPath": "C:\\Users\\Tecsup\\.nuget\\packages\\",
-        "outputPath": "D:\\Prueba\\Proyecto_despliegue\\Proyecto_despliegue\\obj\\",
+        "outputPath": "D:\\Prueba\\Proyecto_de_Despliegue\\Despliegue_en_Csharp\\Proyecto_despliegue\\Proyecto_despliegue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tecsup\\AppData\\Roaming\\NuGet\\NuGet.Config"
