@@ -1,0 +1,9 @@
+D:\Prueba\Proyecto_despliegue\Proyecto_despliegue\bin\Release\net9.0\publish\Proyecto_despliegue.exe
+D:\Prueba\Proyecto_despliegue\Proyecto_despliegue\bin\Release\net9.0\publish\appsettings.Development.json
+D:\Prueba\Proyecto_despliegue\Proyecto_despliegue\bin\Release\net9.0\publish\appsettings.json
+D:\Prueba\Proyecto_despliegue\Proyecto_despliegue\bin\Release\net9.0\publish\Proyecto_despliegue.dll
+D:\Prueba\Proyecto_despliegue\Proyecto_despliegue\bin\Release\net9.0\publish\Proyecto_despliegue.deps.json
+D:\Prueba\Proyecto_despliegue\Proyecto_despliegue\bin\Release\net9.0\publish\Proyecto_despliegue.runtimeconfig.json
+D:\Prueba\Proyecto_despliegue\Proyecto_despliegue\bin\Release\net9.0\publish\Proyecto_despliegue.pdb
+D:\Prueba\Proyecto_despliegue\Proyecto_despliegue\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\Prueba\Proyecto_despliegue\Proyecto_despliegue\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
