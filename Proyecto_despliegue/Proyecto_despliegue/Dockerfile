@@ -3,9 +3,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN ls -R
-
-RUN dotnet publish "./Proyecto_despliegue/Proyecto_despliegue" -c Release -o out
+RUN dotnet publish $(find . -name "*.csproj" | head -n 1) -c Release -o out
 
 FROM mcr.microsoft.com/dotnet/aspnet:9.0
 WORKDIR /app
